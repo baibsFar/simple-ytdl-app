@@ -1,5 +1,9 @@
 # YT downloader
-Simple YouTube downloader using **ytdl-core** library
+Simple YouTube downloader using **ytdl-core** library with NodeJS
+
+# Requirements
+- NodeJS
+- Npm or Yarn
 
 # Usage
 - Installation of modules
